@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FunctionFramework/FunctionFramework.iml" filepath="$PROJECT_DIR$/FunctionFramework/FunctionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIFramework/UIFramework.iml" filepath="$PROJECT_DIR$/UIFramework/UIFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VSTOB.iml" filepath="$PROJECT_DIR$/VSTOB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
